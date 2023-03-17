@@ -1,0 +1,29 @@
+{
+  "name": "4videos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordonezc/4videos.git"
+  },
+  "keywords": [
+    "electron",
+    "js"
+  ],
+  "author": "Niki Ordonez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nordonezc/4videos/issues"
+  },
+  "homepage": "https://github.com/nordonezc/4videos#readme",
+  "dependencies": {
+    "electron": "^23.1.1",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
